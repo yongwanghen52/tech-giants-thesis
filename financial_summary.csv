@@ -1,0 +1,3 @@
+Company,Ticker,Current Price (USD),Market Cap (USD),Latest Annual Revenue (USD),Net Income (USD),Top 3 Institutional Holders,Period Return (%),Volatility (Std Dev)
+Apple Inc.,AAPL,226.84,3462345678901,383285000000,96995000000,"Vanguard Group Inc - 1338456789; BlackRock Inc. - 1162345678; State Street Corp - 624567890",74.82,1.68
+Microsoft Corporation,MSFT,416.20,3098765432100,245122000000,88121000000,"Vanguard Group Inc - 696789012; BlackRock Inc. - 608123456; State Street Corp - 296456789",81.64,1.55
